@@ -1,0 +1,12 @@
+{
+  "name": "is-dependency",
+  "version": "0.0.0",
+  "description": "I really dumb node module that tells you if the name package is a dependency",
+  "main": "index.js",
+  "keywords": [
+    "dependency",
+    "modules"
+  ],
+  "author": "Andre Garvin <YEA BOI>",
+  "license": "MIT"
+}
